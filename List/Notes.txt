@@ -1,0 +1,10 @@
+List are ordered , mutable collection of items
+
+defineing list: []
+Access the list by using "Indexes".
+
+List comprehension
+
+1. Basic syntax :               [expression for items in iterables]
+2. with conditional logic:      [expression for items in iterables if condition]
+3. Nested list comprehension:   [expression for item1 in iterable1 for item2 in iterable2]

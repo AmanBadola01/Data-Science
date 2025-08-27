@@ -1,0 +1,6 @@
+lambda function - lambda (arguments): (return Statement) 
+                  lambda x,y,z: x+y+z
+
+
+map()- Applies a function to all items in a list
+

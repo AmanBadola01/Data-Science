@@ -1,0 +1,2 @@
+Dictoneries are the unordered collection of items. They store data in key value pairs. Key must be
+unique and immutale, While values can be of any type. 

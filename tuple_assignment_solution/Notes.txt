@@ -1,0 +1,4 @@
+Tuples are ordered collection of items that are immutable. They are similar to list but their
+immutability makes them different.
+
+Initialise a Tuples : empty_tuple= ()

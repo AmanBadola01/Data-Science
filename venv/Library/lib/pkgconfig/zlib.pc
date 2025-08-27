@@ -1,0 +1,13 @@
+prefix=E:/OneDrive/Desktop/Data Science/venv/Library
+exec_prefix=E:/OneDrive/Desktop/Data Science/venv/Library
+libdir=E:/OneDrive/Desktop/Data Science/venv/Library/lib
+sharedlibdir=E:/OneDrive/Desktop/Data Science/venv/Library/lib
+includedir=E:/OneDrive/Desktop/Data Science/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
